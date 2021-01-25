@@ -72,7 +72,7 @@ You ski towards it and realise the you did a bad choice and your skin and flesh 
             elif choice_nine=="2":
                 print("""________________SUCCESS________________
 Yah you dug a hole just in time when the meteor hit, the planet exploded.""")
-                choice_ten = input("You feel that like your dead but you just look up and realise that your alive still. What do you want to do 1 = ski left or 2 = ski to the planet or 3 = ski right or 4 = panic: ")
+                choice_ten = input("You feel that like your dead but you just look up and realise that your alive still. What do you want to do 1 = ski left or 2 = ski to the remains or 3 = ski right or 4 = panic: ")
                 if choice_ten=="1":
                     print("""________________GAME_OVER________________
 Ahhhhhhhh. You died of radiation by it going to your heart and stop it.""")
