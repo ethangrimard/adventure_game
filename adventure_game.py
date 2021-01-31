@@ -78,7 +78,7 @@ Yah you dug a hole just in time when the meteor hit, the planet exploded.""")
 Ahhhhhhhh. You died of radiation by it going to your heart and stoping it.""")
                 elif choice_ten=="2"
                     print("""_______________GAME_OVER________________
-You flaot till the remains and start to burn to death""")
+You float till the remains and start to burn to death""")
             else:
                 print("""________________GAME_OVER________________
 You don't have enough time to get to the top and your skin and flesh start melting off.""")
